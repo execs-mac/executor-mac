@@ -3,7 +3,7 @@
 ![Downloads](https://img.shields.io/badge/Downloads-75K%2B-brightgreen?style=for-the-badge)
 ![User Rating](https://img.shields.io/badge/User%20Rating-4.85%2F5-gold?style=for-the-badge)
 ![Latest Version](https://img.shields.io/badge/Latest%20Version-2.1.0-blue?style=for-the-badge)
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)]
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)
 
 **Roblox Executor Mac** is a native macOS script executor crafted specifically for Mac users who want professional-grade script execution without the complexity of cross-platform compromises. Whether you're looking for **roblox executor mac download**, **roblox executor macOS app**, or seeking alternatives to **solara roblox executor mac** and **hydrogen roblox executor mac download**, this project delivers optimized performance for Apple hardware.
 
